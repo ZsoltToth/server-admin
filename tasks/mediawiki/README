@@ -1,0 +1,9 @@
+Intall MediaWiki on Artemis and Athena.
+
+Wiki should be available on artemis:80
+Data has to be stored in MySQL on athena.
+
+Links:
+- https://www.mediawiki.org/wiki/Download
+
+Tips: apache2, mysql-server, mysql-client, php, curl, vi
