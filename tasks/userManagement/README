@@ -1,0 +1,10 @@
+Create all users from the users.list.
+
+Structure of users.list
+username,Real Name,group
+
+All user use the /bin/bash
+Home directories are in the /home/group/username
+
+Passwords has to be generated and printed to the users.list.secure file in
+username:password format.  
