@@ -1,0 +1,12 @@
+Configure artemis to run the NodeJS application of this directory.
+
+Check your configuration with the commands below:
+- root@artemis# curl http://localhost:3000 
+  Hello World
+
+- root@artemis# curl http://localhost:3000?name=Alice 
+  Hello Alice
+
+
+- root@athena# curl http://artemis:3000?name=Athena
+  Hello Athena

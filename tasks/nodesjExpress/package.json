@@ -1,0 +1,15 @@
+{
+  "name": "hello-wolrd-web-app",
+  "version": "1.0.0",
+  "description": "Configure artemis to run the NodeJS application of this directory.",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
