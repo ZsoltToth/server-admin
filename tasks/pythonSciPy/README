@@ -1,0 +1,9 @@
+Run the main.py script on athena.
+
+$ python --version
+Python 3.6.7
+
+
+$ python main.py 
+Anwser: 2.00
+
