@@ -1,5 +1,13 @@
 Run the main.py script on athena.
 
+
+root@athena:~# python3 main.py
+Anwser: 2.00
+
+root@athena:~# python3 --version
+Python 3.6.9
+
+
 $ python --version
 Python 3.6.7
 
